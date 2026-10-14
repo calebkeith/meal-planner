@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" width="240" height="180">
+  <rect width="240" height="180" rx="16" fill="#f1f8e9"/>
+  <ellipse cx="120" cy="145" rx="90" ry="18" fill="#00000018"/>
+  
+  <rect x="85" y="50" width="70" height="90" rx="8" fill="#cfd8dc"/>
+  <rect x="90" y="70" width="60" height="50" fill="#fdd835"/>
+  <text x="120" y="100" text-anchor="middle" font-size="14" fill="#f57f17" font-family="sans-serif">CORN</text>
+
+</svg>

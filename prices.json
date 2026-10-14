@@ -75,13 +75,6 @@
         "brand": "Green Giant",
         "fetchedAt": "2026-10-14T13:07:11.714Z"
       },
-      "mush": {
-        "price": 2.99,
-        "product": "Giant Eagle White Mushrooms, Whole, 8 Oz",
-        "size": "8 oz",
-        "brand": "Giant Eagle",
-        "fetchedAt": "2026-10-14T13:07:19.044Z"
-      },
       "amcheese": {
         "price": 2.49,
         "product": "Giant Eagle Cheese Product, Pasteurized Product, American, Singles 16 - 0.75 oz (21 g) slices 12 oz (340 g)",
@@ -378,7 +371,7 @@
       },
       "uncrust": {
         "price": 11.49,
-        "product": "Smucker’s Uncrustables Peanut Butter & Grape Jelly Sandwiches, 10 Count (Frozen)",
+        "product": "Smucker\u2019s Uncrustables Peanut Butter & Grape Jelly Sandwiches, 10 Count (Frozen)",
         "size": "20 oz",
         "brand": "Smucker's",
         "fetchedAt": "2026-10-14T13:27:19.378Z"
@@ -460,13 +453,6 @@
         "size": "4 ct",
         "brand": "freshire farms",
         "fetchedAt": "2026-10-14T13:08:29.398Z"
-      },
-      "mush": {
-        "price": 1.49,
-        "product": "White Mushrooms",
-        "size": "8 oz",
-        "brand": null,
-        "fetchedAt": "2026-10-14T13:08:44.137Z"
       },
       "amcheese": {
         "price": 2.05,
@@ -828,15 +814,6 @@
         "price": 2.49,
         "product": "Russet Potatoes",
         "size": "5 lb bag",
-        "priceType": "sale",
-        "validThrough": "2026-10-20",
-        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
-        "fetchedAt": "2026-10-14T13:15:00.000Z"
-      },
-      "onion": {
-        "price": 0.42,
-        "product": "Yellow Onions",
-        "size": "3 lb bag (3 lb bag ≈ 6 onions)",
         "priceType": "sale",
         "validThrough": "2026-10-20",
         "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
