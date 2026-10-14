@@ -1,0 +1,1012 @@
+{
+  "gianteagle": {
+    "storeId": "1238",
+    "storeName": "Giant Eagle #1238, 4453 Liberty Ave, Vermilion",
+    "status": "ok",
+    "fetchedAt": "2026-10-14T13:28:20.502Z",
+    "prices": {
+      "gbeef": {
+        "price": 6.99,
+        "product": "Giant Eagle Ground Beef, 80% Lean 20% Fat, Value Pack",
+        "size": "per lb (pack 3 lb (avg.))",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:05:32.988Z"
+      },
+      "hotdog": {
+        "price": 2.39,
+        "product": "Sugardale Hot Dogs",
+        "size": "16 oz",
+        "brand": "Sugardale",
+        "fetchedAt": "2026-10-14T13:05:41.432Z"
+      },
+      "bacon": {
+        "price": 5.49,
+        "product": "Giant Eagle Bacon, Center Cut, Hardwood Smoked",
+        "size": "12 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:05:50.256Z"
+      },
+      "sausage": {
+        "price": 3.99,
+        "product": "Giant Eagle Sausage Roll, Regular",
+        "size": "16 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:05:57.668Z"
+      },
+      "pork": {
+        "price": 4.49,
+        "product": "Giant Eagle Boston Butt Roast Pork, Value Pack",
+        "size": "per lb (pack 4.5 lb (avg.))",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:06:05.979Z"
+      },
+      "chbreast": {
+        "price": 3.33,
+        "product": "Giant Eagle Chicken Breasts, Skinless & Boneless",
+        "size": "per lb (pack 3 lb)",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:06:14.309Z"
+      },
+      "pepperoni": {
+        "price": 3.99,
+        "product": "Giant Eagle Sliced Pepperoni, Original Recipe",
+        "size": "6 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:06:31.533Z"
+      },
+      "lettuce": {
+        "price": 2.5,
+        "product": "Giant Eagle Iceberg Shredded Lettuce",
+        "size": "8 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:06:46.115Z"
+      },
+      "tomato": {
+        "price": 0.75,
+        "product": "Produce Stem Tomatoes, Fresh",
+        "size": "4 oz (avg.)",
+        "brand": "Produce",
+        "fetchedAt": "2026-10-14T13:06:55.426Z"
+      },
+      "cob": {
+        "price": 2.99,
+        "product": "Green Giant Corn-on-the-Cob, Extra Sweet, Mini-Ears",
+        "size": "6 ea",
+        "brand": "Green Giant",
+        "fetchedAt": "2026-10-14T13:07:11.714Z"
+      },
+      "mush": {
+        "price": 2.99,
+        "product": "Giant Eagle White Mushrooms, Whole, 8 Oz",
+        "size": "8 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:07:19.044Z"
+      },
+      "amcheese": {
+        "price": 2.49,
+        "product": "Giant Eagle Cheese Product, Pasteurized Product, American, Singles 16 - 0.75 oz (21 g) slices 12 oz (340 g)",
+        "size": "12 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:07:34.777Z"
+      },
+      "mozz": {
+        "price": 2.49,
+        "product": "Giant Eagle Cheese, Shredded, Low-Moisture, Part-Skim, Mozzarella",
+        "size": "8 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:07:42.636Z"
+      },
+      "milk": {
+        "price": 2.99,
+        "product": "Giant Eagle Whole Milk, with Vitamin D, Grade A",
+        "size": "1 gl",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:07:50.005Z"
+      },
+      "butter": {
+        "price": 5.19,
+        "product": "Land O Lakes Butter, Salted",
+        "size": "1 lb",
+        "brand": "Land O Lakes",
+        "fetchedAt": "2026-10-14T13:07:57.782Z"
+      },
+      "eggs": {
+        "price": 1.99,
+        "product": "Crystal Spring Large White Eggs, 12 Ct",
+        "size": "12 each",
+        "brand": "Crystal Spring",
+        "fetchedAt": "2026-10-14T13:08:05.184Z"
+      },
+      "sourcream": {
+        "price": 2.29,
+        "product": "Giant Eagle Sour Cream, Grade A",
+        "size": "16 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:08:12.525Z"
+      },
+      "dip": {
+        "price": 1.99,
+        "product": "Heluva Good! French Onion Dip, 8 oz",
+        "size": "8 oz",
+        "brand": "HELUVA GOOD",
+        "fetchedAt": "2026-10-14T13:08:28.780Z"
+      },
+      "biscuits": {
+        "price": 2.89,
+        "product": "Giant Eagle Jumbo Buttermilk Biscuits, Ready To Bake",
+        "size": "16 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:08:36.640Z"
+      },
+      "bread": {
+        "price": 2.99,
+        "product": "Sara Lee Classic Bread, 20 oz, Plain White Bread, Bag",
+        "size": "20 oz",
+        "brand": "Sara Lee",
+        "fetchedAt": "2026-10-14T13:08:46.040Z"
+      },
+      "hbuns": {
+        "price": 3.99,
+        "product": "Wonder Extra Soft Classic Hamburger Buns",
+        "size": "8 each",
+        "brand": "Wonder",
+        "fetchedAt": "2026-10-14T13:08:54.415Z"
+      },
+      "dbuns": {
+        "price": 1.79,
+        "product": "Old Home Hot Dog Buns, 8 count, 12 oz",
+        "size": "8 count",
+        "brand": "Old Home",
+        "fetchedAt": "2026-10-14T13:09:02.215Z"
+      },
+      "tortilla": {
+        "price": 2.29,
+        "product": "Giant Eagle Taco Shells, Crunchy",
+        "size": "12 each",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:09:10.063Z"
+      },
+      "frbread": {
+        "price": 2.99,
+        "product": "Market District Bakery Fresh Baguette, 1 Count",
+        "size": "10 oz",
+        "brand": "Market District",
+        "fetchedAt": "2026-10-14T13:09:17.425Z"
+      },
+      "egnoodle": {
+        "price": 1.99,
+        "product": "Giant Eagle Egg Noodles, Extra Broad",
+        "size": "12 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:09:34.116Z"
+      },
+      "macbox": {
+        "price": 0.99,
+        "product": "Giant Eagle Mac & Cheese Dinner, Original",
+        "size": "7.25 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:09:50.339Z"
+      },
+      "pancake": {
+        "price": 2.79,
+        "product": "Giant Eagle Pancake Mix, Buttermilk Complete",
+        "size": "32 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:09:57.689Z"
+      },
+      "sauce": {
+        "price": 1.79,
+        "product": "Giant Eagle Traditional Pasta Sauce",
+        "size": "24 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:10:05.559Z"
+      },
+      "tacoseas": {
+        "price": 1.19,
+        "product": "Giant Eagle Taco Seasoning Mix",
+        "size": "1.25 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:10:13.874Z"
+      },
+      "chili": {
+        "price": 3.99,
+        "product": "Coney Island Dog Chili",
+        "size": "15 oz",
+        "brand": "HORMEL",
+        "fetchedAt": "2026-10-14T13:10:21.669Z"
+      },
+      "corncan": {
+        "price": 0.99,
+        "product": "Giant Eagle Corn, Golden, Whole Kernel",
+        "size": "15.25 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:10:55.279Z"
+      },
+      "beans": {
+        "price": 3.49,
+        "product": "BUSH'S Original Baked Beans 28 oz",
+        "size": "28 oz",
+        "brand": "Bush's Best",
+        "fetchedAt": "2026-10-14T13:11:03.289Z"
+      },
+      "bbq": {
+        "price": 1.89,
+        "product": "Open Pit Blue Label Original BBQ Sauce, 18 oz.",
+        "size": "18 oz",
+        "brand": "Open Pit",
+        "fetchedAt": "2026-10-14T13:11:11.124Z"
+      },
+      "gravymix": {
+        "price": 1.49,
+        "product": "Pioneer Country Sausage Flavored Gravy Mix",
+        "size": "2.75 oz",
+        "brand": "Pioneer",
+        "fetchedAt": "2026-10-14T13:11:18.964Z"
+      },
+      "syrup": {
+        "price": 3.29,
+        "product": "Giant Eagle Original Syrup",
+        "size": "24 fl. oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:11:28.329Z"
+      },
+      "pizzasauce": {
+        "price": 1.99,
+        "product": "Giant Eagle Traditional Pizza Sauce",
+        "size": "14 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:11:36.204Z"
+      },
+      "pizzarolls": {
+        "price": 4.99,
+        "product": "Totino's Pepperoni Pizza Rolls",
+        "size": "50 each",
+        "brand": "Totino's",
+        "fetchedAt": "2026-10-14T13:11:45.017Z"
+      },
+      "nuggets": {
+        "price": 6.99,
+        "product": "Giant Eagle Cooked Chicken Nuggets",
+        "size": "24 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:11:53.370Z"
+      },
+      "rbpizza": {
+        "price": 4.99,
+        "product": "Red Baron Pepperoni Classic Crust Frozen Pizza",
+        "size": "20.61 oz",
+        "brand": "Red Baron",
+        "fetchedAt": "2026-10-14T13:12:07.819Z"
+      },
+      "fries": {
+        "price": 3.99,
+        "product": "Giant Eagle French Fried Potatoes, Straight Cut",
+        "size": "32 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:12:15.732Z"
+      },
+      "patties": {
+        "price": 7.49,
+        "product": "Tyson Frozen Chicken Patties - 23 Oz",
+        "size": "23 oz",
+        "brand": "TYSON",
+        "fetchedAt": "2026-10-14T13:12:23.560Z"
+      },
+      "ketchup": {
+        "price": 1.69,
+        "product": "Giant Eagle Tomato Ketchup, Squeeze Bottle",
+        "size": "24 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:12:54.181Z"
+      },
+      "mustard": {
+        "price": 0.99,
+        "product": "Giant Eagle Yellow Mustard, Squeeze Bottle",
+        "size": "8 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:13:01.496Z"
+      },
+      "chipbox": {
+        "price": 10.99,
+        "product": "Frito Lay Snacks Classic Mix Variety Pack 1 Oz, 18 Count",
+        "size": "18 each",
+        "brand": "Frito Lay",
+        "fetchedAt": "2026-10-14T13:14:29.831Z"
+      },
+      "brownie": {
+        "price": 2.49,
+        "product": "Giant Eagle Brownie Mix, Fudge",
+        "size": "18.3 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:14:49.119Z"
+      },
+      "granola": {
+        "price": 6.49,
+        "product": "Quaker Granola Bars, Chocolate Chip, Value Pack, 18 Pack",
+        "size": "18 ea",
+        "brand": "Quaker",
+        "fetchedAt": "2026-10-14T13:15:05.991Z"
+      },
+      "wipes": {
+        "price": 5.79,
+        "product": "Giant Eagle Baby Cleansing Wipes, Aloe & Calendula, 3 Pack, 72 Ct each",
+        "size": "216 ct",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:16:22.850Z"
+      },
+      "potato": {
+        "price": 3.49,
+        "product": "Giant Eagle Russet Potatoes 5 Lbs.",
+        "size": "5 lb",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:26:13.298Z"
+      },
+      "cheddar": {
+        "price": 2.49,
+        "product": "Giant Eagle Cheese, Shredded, Sharp Cheddar",
+        "size": "8 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:26:21.070Z"
+      },
+      "spaghetti": {
+        "price": 1.49,
+        "product": "Giant Eagle Spaghetti",
+        "size": "16 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:26:37.298Z"
+      },
+      "helper": {
+        "price": 2.79,
+        "product": "Hamburger Helper Double Cheeseburger Macaroni",
+        "size": "6 oz",
+        "brand": "Hamburger Helper",
+        "fetchedAt": "2026-10-14T13:26:45.175Z"
+      },
+      "cnsoup": {
+        "price": 1.19,
+        "product": "Giant Eagle Chicken Noodle Soup",
+        "size": "10.5 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:27:02.350Z"
+      },
+      "mushsoup": {
+        "price": 1.29,
+        "product": "Giant Eagle Condensed Soup, Cream Of Mushroom",
+        "size": "10.5 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T13:27:11.215Z"
+      },
+      "uncrust": {
+        "price": 11.49,
+        "product": "Smucker’s Uncrustables Peanut Butter & Grape Jelly Sandwiches, 10 Count (Frozen)",
+        "size": "20 oz",
+        "brand": "Smucker's",
+        "fetchedAt": "2026-10-14T13:27:19.378Z"
+      }
+    }
+  },
+  "aldi": {
+    "storeId": "516357",
+    "storeName": "ALDI HIN 58 - Amherst (2241 Kresge Dr)",
+    "status": "ok",
+    "fetchedAt": "2026-10-14T13:31:28.889Z",
+    "prices": {
+      "gbeef": {
+        "price": 5.29,
+        "product": "80% Lean 20% Fat Ground Beef",
+        "size": "per lb (pack per lb)",
+        "brand": null,
+        "fetchedAt": "2026-10-14T13:05:38.160Z"
+      },
+      "hotdog": {
+        "price": 1.09,
+        "product": "Parkview Classic Hot Dogs",
+        "size": "12 oz",
+        "brand": "parkview",
+        "fetchedAt": "2026-10-14T13:05:52.285Z"
+      },
+      "bacon": {
+        "price": 4.35,
+        "product": "Appleton Farms Premium Sliced Bacon",
+        "size": "16 oz",
+        "brand": "appleton farms",
+        "fetchedAt": "2026-10-14T13:06:06.562Z"
+      },
+      "sausage": {
+        "price": 3.09,
+        "product": "Appleton Farms Premium Pork Sausage",
+        "size": "16 oz",
+        "brand": "appleton farms",
+        "fetchedAt": "2026-10-14T13:06:20.762Z"
+      },
+      "pork": {
+        "price": 1.39,
+        "product": "Smithfield Boneless Pork Shoulder Butt Roast, per lb",
+        "size": "per lb (pack per lb)",
+        "brand": "smithfield",
+        "fetchedAt": "2026-10-14T13:06:35.195Z"
+      },
+      "chbreast": {
+        "price": 1.99,
+        "product": "Boneless Skinless Chicken Breasts Family Pack, per lb",
+        "size": "per lb (pack per lb)",
+        "brand": "kirkwood",
+        "fetchedAt": "2026-10-14T13:06:49.476Z"
+      },
+      "ham": {
+        "price": 4.59,
+        "product": "Lunch Mate Black Forest Ham",
+        "size": "16 oz",
+        "brand": "lunch mate",
+        "fetchedAt": "2026-10-14T13:07:03.609Z"
+      },
+      "pepperoni": {
+        "price": 3.09,
+        "product": "Mama Cozzi Original Pepperoni",
+        "size": "6 oz",
+        "brand": "mama cozzi's pizza kitchen",
+        "fetchedAt": "2026-10-14T13:07:17.873Z"
+      },
+      "lettuce": {
+        "price": 2.45,
+        "product": "Little Salad Bar Shredded Lettuce",
+        "size": "8 oz",
+        "brand": "little salad bar",
+        "fetchedAt": "2026-10-14T13:07:46.629Z"
+      },
+      "cob": {
+        "price": 3.65,
+        "product": "Freshire Farms Sweet Corn",
+        "size": "4 ct",
+        "brand": "freshire farms",
+        "fetchedAt": "2026-10-14T13:08:29.398Z"
+      },
+      "mush": {
+        "price": 1.49,
+        "product": "White Mushrooms",
+        "size": "8 oz",
+        "brand": null,
+        "fetchedAt": "2026-10-14T13:08:44.137Z"
+      },
+      "amcheese": {
+        "price": 2.05,
+        "product": "Happy Farms American Cheese Singles",
+        "size": "12 oz",
+        "brand": "happy farms",
+        "fetchedAt": "2026-10-14T13:09:12.650Z"
+      },
+      "milk": {
+        "price": 3.06,
+        "product": "Friendly Farms Whole Milk",
+        "size": "1 gal",
+        "brand": "friendly farms",
+        "fetchedAt": "2026-10-14T13:09:41.148Z"
+      },
+      "butter": {
+        "price": 3.19,
+        "product": "Countryside Creamery Sweet Cream Butter - 4 Sticks",
+        "size": "16 oz",
+        "brand": "countryside creamery",
+        "fetchedAt": "2026-10-14T13:09:55.544Z"
+      },
+      "eggs": {
+        "price": 1.65,
+        "product": "Goldhen Large Grade A Eggs - 1 Dozen",
+        "size": "12 ct",
+        "brand": "goldhen",
+        "fetchedAt": "2026-10-14T13:10:09.932Z"
+      },
+      "sourcream": {
+        "price": 1.75,
+        "product": "Friendly Farms Sour Cream",
+        "size": "16 oz",
+        "brand": "friendly farms",
+        "fetchedAt": "2026-10-14T13:10:24.175Z"
+      },
+      "biscuits": {
+        "price": 2.05,
+        "product": "Bake House Creations Jumbo Buttermilk Biscuits, 8 count",
+        "size": "16 oz",
+        "brand": "bake house creations",
+        "fetchedAt": "2026-10-14T13:11:07.483Z"
+      },
+      "bread": {
+        "price": 1.65,
+        "product": "L'oven Fresh White Bread, 20 oz ver 3",
+        "size": "20 oz",
+        "brand": "l'oven fresh",
+        "fetchedAt": "2026-10-14T13:11:21.739Z"
+      },
+      "hbuns": {
+        "price": 3.29,
+        "product": "L'oven Fresh Artisanal Hamburger Buns, 8 count",
+        "size": "18 oz",
+        "brand": "l'oven fresh",
+        "fetchedAt": "2026-10-14T13:11:36.028Z"
+      },
+      "frbread": {
+        "price": 1.95,
+        "product": "Specially Selected Take & Bake French Baguette",
+        "size": "9.5 oz",
+        "brand": "specially selected",
+        "fetchedAt": "2026-10-14T13:12:19.086Z"
+      },
+      "egnoodle": {
+        "price": 1.89,
+        "product": "Reggano Enriched Wide Egg Noodles",
+        "size": "16 oz",
+        "brand": "reggano",
+        "fetchedAt": "2026-10-14T13:12:47.657Z"
+      },
+      "macbox": {
+        "price": 0.65,
+        "product": "Cheese Club Original Mac & Cheese",
+        "size": "7.25 oz",
+        "brand": "cheese club",
+        "fetchedAt": "2026-10-14T13:13:16.254Z"
+      },
+      "pancake": {
+        "price": 3.95,
+        "product": "Breakfast Best Buttermilk Pancakes, 24 Count",
+        "size": "32 oz",
+        "brand": "breakfast best",
+        "fetchedAt": "2026-10-14T13:13:30.449Z"
+      },
+      "sauce": {
+        "price": 2.09,
+        "product": "Reggano Traditional Pasta Sauce",
+        "size": "24 oz",
+        "brand": "reggano",
+        "fetchedAt": "2026-10-14T13:13:44.684Z"
+      },
+      "tacoseas": {
+        "price": 0.55,
+        "product": "Casa Mamita Original Taco Seasoning Mix",
+        "size": "1 oz",
+        "brand": "casa mamita",
+        "fetchedAt": "2026-10-14T13:13:59.048Z"
+      },
+      "corncan": {
+        "price": 0.55,
+        "product": "Happy Harvest Canned Whole Kernel Golden Sweet Corn",
+        "size": "15.25 oz",
+        "brand": "happy harvest",
+        "fetchedAt": "2026-10-14T13:15:10.828Z"
+      },
+      "bbq": {
+        "price": 1.89,
+        "product": "Burman's Original BBQ Sauce",
+        "size": "18 oz",
+        "brand": "burman's",
+        "fetchedAt": "2026-10-14T13:15:39.598Z"
+      },
+      "syrup": {
+        "price": 2.59,
+        "product": "Millville Original Pancake Syrup",
+        "size": "24 fl oz",
+        "brand": "millville",
+        "fetchedAt": "2026-10-14T13:16:08.201Z"
+      },
+      "pizzasauce": {
+        "price": 1.25,
+        "product": "Reggano Pizza Sauce",
+        "size": "14 oz",
+        "brand": "reggano",
+        "fetchedAt": "2026-10-14T13:16:22.693Z"
+      },
+      "nuggets": {
+        "price": 5.89,
+        "product": "Kirkwood Chicken Nuggets",
+        "size": "29 oz",
+        "brand": "kirkwood",
+        "fetchedAt": "2026-10-14T13:16:51.140Z"
+      },
+      "ketchup": {
+        "price": 2.15,
+        "product": "Burman's Tomato Ketchup",
+        "size": "38 oz",
+        "brand": "burman's",
+        "fetchedAt": "2026-10-14T13:18:16.791Z"
+      },
+      "mustard": {
+        "price": 1.09,
+        "product": "Burman's Yellow Mustard",
+        "size": "20 oz",
+        "brand": "burman's",
+        "fetchedAt": "2026-10-14T13:18:31.018Z"
+      },
+      "pickles": {
+        "price": 3.19,
+        "product": "Aldi Hamburger Dill Chips",
+        "size": "32 fl oz",
+        "brand": "great gherkins",
+        "fetchedAt": "2026-10-14T13:18:45.370Z"
+      },
+      "ldebbie": {
+        "price": 3.45,
+        "product": "Little Debbie Oatmeal Creme Pies",
+        "size": "12 ct",
+        "brand": "little debbie",
+        "fetchedAt": "2026-10-14T13:19:14.037Z"
+      },
+      "brownie": {
+        "price": 1.75,
+        "product": "Baker's Corner Family Size Chewy Fudge Brownie Mix",
+        "size": "18.3 oz",
+        "brand": "baker's corner",
+        "fetchedAt": "2026-10-14T13:20:11.898Z"
+      },
+      "granola": {
+        "price": 3.65,
+        "product": "Millville Chocolate Chip Chewy Granola Bars, 18 count",
+        "size": "15.12 oz",
+        "brand": "millville",
+        "fetchedAt": "2026-10-14T13:20:26.322Z"
+      },
+      "chips": {
+        "price": 1.99,
+        "product": "Clancy's Original Potato Chips",
+        "size": "10 oz",
+        "brand": "clancy's",
+        "fetchedAt": "2026-10-14T13:20:40.521Z"
+      },
+      "diapers": {
+        "price": 13.55,
+        "product": "Little Journey Club Pack Diapers Size 4",
+        "size": "82 ct",
+        "brand": "little journey",
+        "fetchedAt": "2026-10-14T13:21:23.545Z"
+      },
+      "wipes": {
+        "price": 5.45,
+        "product": "Little Journey Thick & Quilted Baby Wipes Value Pack",
+        "size": "216 ct",
+        "brand": "little journey",
+        "fetchedAt": "2026-10-14T13:21:38.250Z"
+      },
+      "spaghetti": {
+        "price": 2.19,
+        "product": "Priano Bronze Cut Spaghetti",
+        "size": "16 oz",
+        "brand": "priano",
+        "fetchedAt": "2026-10-14T13:29:47.538Z"
+      },
+      "tsoup": {
+        "price": 1.65,
+        "product": "Campbell's Condensed Tomato Soup",
+        "size": "10.75 oz",
+        "brand": "campbell's",
+        "fetchedAt": "2026-10-14T13:30:17.213Z"
+      },
+      "cnsoup": {
+        "price": 1.65,
+        "product": "Campbell's Condensed Chicken Noodle Soup",
+        "size": "10.75 oz",
+        "brand": "campbell's",
+        "fetchedAt": "2026-10-14T13:30:31.597Z"
+      },
+      "mushsoup": {
+        "price": 0.79,
+        "product": "Chef's Cupboard Condensed Cream of Mushroom Soup",
+        "size": "10.5 oz",
+        "brand": "chef's cupboard",
+        "fetchedAt": "2026-10-14T13:30:45.974Z"
+      },
+      "cereal": {
+        "price": 2.95,
+        "product": "Millville Honey Crunch 'n Oats Original Cereal",
+        "size": "18 oz",
+        "brand": "millville",
+        "fetchedAt": "2026-10-14T13:31:14.454Z"
+      }
+    }
+  },
+  "walmart": {
+    "storeId": "",
+    "storeName": "Walmart (Lorain area; default site location)",
+    "status": "sample: BLOCKED (bot challenge) at \"great value whole milk 1 gallon\" - stopped for this week; 0 new this week; 0 last-known kept | ad: no text weekly ad found (https://retailshout.com/walmart-weekly-ad/ 404)",
+    "fetchedAt": "2026-10-14T13:25:47.632Z",
+    "prices": {}
+  },
+  "meijer": {
+    "storeId": "",
+    "storeName": "Meijer, 5350 N Leavitt Rd, Lorain (weekly ad + public prices; meijer.com not accessed)",
+    "status": "ok (weekly ad 10/14 to 10/20: 343 ad items, 23 matched)",
+    "fetchedAt": "2026-10-14T13:21:41.727Z",
+    "prices": {
+      "gbeef": {
+        "price": 6.99,
+        "product": "Meijer 80/20 Ground Beef Roll",
+        "size": "1 lb",
+        "priceType": "regular",
+        "source": "search-engine snippet of meijer.com product page (store shown: Alpine, MI - not Lorain)",
+        "note": "Ad 10/14-10/20: Meijer 1 lb roll BOGO 50% off (~$5.24/lb avg when buying 2)",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "spaghetti": {
+        "price": 1.19,
+        "product": "Meijer Spaghetti Pasta",
+        "size": "16 oz",
+        "priceType": "regular",
+        "source": "search-engine snippet of meijer.com product page (store shown: Alpine, MI - not Lorain)",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "milk": {
+        "price": 3.33,
+        "product": "Meijer Whole Milk",
+        "size": "1 gal",
+        "priceType": "regular",
+        "source": "search-engine snippet of meijer.com product page (store shown: Alpine, MI - not Lorain)",
+        "note": "Milk category snippet shows $3.18; BasketBot national Meijer range $2.46-3.29 (10/13)",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "eggs": {
+        "price": 1.99,
+        "product": "Meijer Grade A Cage Free Large Eggs",
+        "size": "1 dozen",
+        "priceType": "regular",
+        "source": "Instacart Meijer page via search snippet (location unknown; Instacart prices can be marked up)",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "cheddar": {
+        "price": 2.99,
+        "product": "Sargento Shredded/Chunk/Sliced Cheese",
+        "size": "5-8 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "amcheese": {
+        "price": 2.99,
+        "product": "Sargento Sliced Cheese",
+        "size": "5-8 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "note": "same Sargento promo",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "bacon": {
+        "price": 5.99,
+        "product": "Oscar Mayer Bacon",
+        "size": "12-16 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "note": "Also Wright Bacon 24 oz $8.99 sale",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "hbuns": {
+        "price": 3.29,
+        "product": "Ball Park Buns",
+        "size": "8 ct / 14-16 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "dbuns": {
+        "price": 3.29,
+        "product": "Ball Park Buns (hot dog)",
+        "size": "8 ct",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "note": "select varieties",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "bread": {
+        "price": 2.59,
+        "product": "Pepperidge Farm Thin Sliced Bread",
+        "size": "14 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "uncrust": {
+        "price": 9.49,
+        "product": "Smucker's Uncrustables",
+        "size": "8-10 pk / 20-22.4 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "ldebbie": {
+        "price": 1.99,
+        "product": "Little Debbie Mini Donuts",
+        "size": "8.25-11.9 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "note": "only Mini Donuts on ad",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "potato": {
+        "price": 2.49,
+        "product": "Russet Potatoes",
+        "size": "5 lb bag",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "onion": {
+        "price": 0.42,
+        "product": "Yellow Onions",
+        "size": "3 lb bag (3 lb bag ≈ 6 onions)",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "pizzarolls": {
+        "price": 4.99,
+        "product": "Totino's Pizza Rolls",
+        "size": "50 ct / 24.5 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "rbpizza": {
+        "price": 4.99,
+        "product": "Red Baron Classic Crust Pepperoni Pizza",
+        "size": "20.6 oz",
+        "priceType": "regular",
+        "source": "search-engine snippet of meijer.com product page (store shown: Alpine, MI - not Lorain)",
+        "note": "snippet ambiguous ($4.99 shown; also $6.49 sale/$6.99 orig on same page, possibly other product)",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "helper": {
+        "price": 1.49,
+        "product": "Hamburger Helper",
+        "size": "4-8.7 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "tortilla": {
+        "price": 2.99,
+        "product": "Old El Paso Soft Tortillas",
+        "size": "5.1-21.5 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "cnsoup": {
+        "price": 1.5,
+        "product": "Campbell's Condensed Soup",
+        "size": "10.5-11.5 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "note": "4/$6",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "tsoup": {
+        "price": 1.5,
+        "product": "Campbell's Condensed Tomato Soup",
+        "size": "10.75 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "note": "4/$6",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "mushsoup": {
+        "price": 1.5,
+        "product": "Campbell's Cream of Mushroom",
+        "size": "10.5 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "note": "4/$6",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "chips": {
+        "price": 2,
+        "product": "Meijer Potato/Tortilla Chips",
+        "size": "7.75-13 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "note": "3/$6 when buying 3; LAY'S 2/$5",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "chbreast": {
+        "price": 2.59,
+        "product": "Fresh from Meijer Family Pack Chicken Breasts",
+        "size": "per lb",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "sausage": {
+        "price": 4,
+        "product": "Jimmy Dean Breakfast Sausage Roll",
+        "size": "9.6-16 oz",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "source": "Meijer ad preview via weeklyadhunters.com",
+        "note": "2/$8",
+        "fetchedAt": "2026-10-14T13:15:00.000Z"
+      },
+      "pork": {
+        "price": 1.99,
+        "product": "Fresh from Meijer Whole Pork Shoulder Butt Roast",
+        "size": "3.69 lb",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "adText": "sale $1.99 lb",
+        "source": "Meijer weekly ad via retailshout.com",
+        "fetchedAt": "2026-10-14T13:21:41.721Z"
+      },
+      "sourcream": {
+        "price": 3.69,
+        "product": "Daisy Sour Cream*",
+        "size": "24 oz.",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "adText": "sale price $3.69",
+        "source": "Meijer weekly ad via retailshout.com",
+        "fetchedAt": "2026-10-14T13:21:41.721Z"
+      },
+      "macbox": {
+        "price": 1.33,
+        "product": "Annie's Natural Macaroni & Cheese",
+        "size": "5.25-6 oz. Select varieties",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "adText": "sale 3/ $4.00",
+        "source": "Meijer weekly ad via retailshout.com",
+        "fetchedAt": "2026-10-14T13:21:41.721Z"
+      },
+      "bbq": {
+        "price": 1.89,
+        "product": "Meijer BBQ Sauce",
+        "size": "18 oz.",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "adText": "sale $1.89",
+        "source": "Meijer weekly ad via retailshout.com",
+        "fetchedAt": "2026-10-14T13:21:41.721Z"
+      },
+      "cereal": {
+        "price": 3.99,
+        "product": "Post Family Size Cereal 18-19.5 oz. or Great Grains Cereal* 13.5-16 oz.",
+        "size": "sale price $3.99",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "adText": "sale price $3.99",
+        "source": "Meijer weekly ad via retailshout.com",
+        "fetchedAt": "2026-10-14T13:21:41.721Z"
+      },
+      "diapers": {
+        "price": 7.59,
+        "product": "Luvs Jumbo Pack Platinum Diapers*",
+        "size": "16-46 ct. Baby Dept",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "adText": "sale price $7.59",
+        "source": "Meijer weekly ad via retailshout.com",
+        "fetchedAt": "2026-10-14T13:21:41.721Z"
+      },
+      "wipes": {
+        "price": 6.69,
+        "product": "Huggies 3 Pk. Wipes*",
+        "size": "168-192 ct. Baby Dept",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "adText": "sale price $6.69",
+        "source": "Meijer weekly ad via retailshout.com",
+        "fetchedAt": "2026-10-14T13:21:41.721Z"
+      }
+    }
+  }
+}
