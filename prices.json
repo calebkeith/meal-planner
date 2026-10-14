@@ -3,7 +3,7 @@
     "storeId": "1238",
     "storeName": "Giant Eagle #1238, 4453 Liberty Ave, Vermilion",
     "status": "ok",
-    "fetchedAt": "2026-10-14T15:21:45.209Z",
+    "fetchedAt": "2026-10-14T15:30:06.688Z",
     "prices": {
       "gbeef": {
         "price": 6.99,
@@ -459,6 +459,27 @@
         "size": "32 oz",
         "brand": "Giant Eagle",
         "fetchedAt": "2026-10-14T15:21:39.143Z"
+      },
+      "fettuccine": {
+        "price": 1.49,
+        "product": "Giant Eagle Fettuccine",
+        "size": "16 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T15:29:31.698Z"
+      },
+      "alfredo": {
+        "price": 1.99,
+        "product": "Giant Eagle Creamy Alfredo Sauce",
+        "size": "15 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T15:29:39.545Z"
+      },
+      "velveeta": {
+        "price": 4.09,
+        "product": "Velveeta Shells & Cheese Original Shell Pasta & Cheese Sauce, 12 oz. Box",
+        "size": "12 oz",
+        "brand": "Velveeta",
+        "fetchedAt": "2026-10-14T15:29:47.627Z"
       }
     }
   },
@@ -466,7 +487,7 @@
     "storeId": "516357",
     "storeName": "ALDI HIN 58 - Amherst (2241 Kresge Dr)",
     "status": "ok",
-    "fetchedAt": "2026-10-14T15:19:57.600Z",
+    "fetchedAt": "2026-10-14T15:30:06.688Z",
     "prices": {
       "gbeef": {
         "price": 5.29,
@@ -824,6 +845,20 @@
         "size": "8 oz",
         "brand": "happy harvest",
         "fetchedAt": "2026-10-14T15:19:13.959Z"
+      },
+      "fettuccine": {
+        "price": 2.19,
+        "product": "Priano Specialty Bronze Cut Fettuccine",
+        "size": "16 oz",
+        "brand": "priano",
+        "fetchedAt": "2026-10-14T15:29:37.577Z"
+      },
+      "alfredo": {
+        "price": 1.95,
+        "product": "Priano Creamy Alfredo Sauce",
+        "size": "15 oz",
+        "brand": "priano",
+        "fetchedAt": "2026-10-14T15:29:51.851Z"
       }
     }
   },
@@ -837,8 +872,8 @@
   "meijer": {
     "storeId": "",
     "storeName": "Meijer, 5350 N Leavitt Rd, Lorain (weekly ad + public prices; meijer.com not accessed)",
-    "status": "ok (weekly ad 10/14 to 10/20: 343 ad items, 23 matched)",
-    "fetchedAt": "2026-10-14T15:19:58.766Z",
+    "status": "ok (weekly ad 10/14 to 10/20: 343 ad items, 24 matched)",
+    "fetchedAt": "2026-10-14T15:30:07.876Z",
     "prices": {
       "gbeef": {
         "price": 6.99,
@@ -1052,7 +1087,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale $1.99 lb",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:19:58.756Z"
+        "fetchedAt": "2026-10-14T15:30:07.843Z"
       },
       "sourcream": {
         "price": 3.69,
@@ -1062,7 +1097,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale price $3.69",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:19:58.756Z"
+        "fetchedAt": "2026-10-14T15:30:07.843Z"
       },
       "macbox": {
         "price": 1.33,
@@ -1072,7 +1107,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale 3/ $4.00",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:19:58.756Z"
+        "fetchedAt": "2026-10-14T15:30:07.843Z"
       },
       "bbq": {
         "price": 1.89,
@@ -1082,7 +1117,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale $1.89",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:19:58.756Z"
+        "fetchedAt": "2026-10-14T15:30:07.843Z"
       },
       "cereal": {
         "price": 3.99,
@@ -1092,7 +1127,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale price $3.99",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:19:58.756Z"
+        "fetchedAt": "2026-10-14T15:30:07.843Z"
       },
       "diapers": {
         "price": 7.59,
@@ -1102,7 +1137,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale price $7.59",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:19:58.756Z"
+        "fetchedAt": "2026-10-14T15:30:07.843Z"
       },
       "wipes": {
         "price": 6.69,
@@ -1112,7 +1147,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale price $6.69",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:19:58.756Z"
+        "fetchedAt": "2026-10-14T15:30:07.843Z"
       },
       "hhstrog": {
         "price": 1.49,
@@ -1122,7 +1157,17 @@
         "validThrough": "2026-10-20",
         "adText": "sale $1.49",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:19:58.756Z"
+        "fetchedAt": "2026-10-14T15:30:07.843Z"
+      },
+      "alfredo": {
+        "price": 2.39,
+        "product": "Prego Pasta or Alfredo Sauce*",
+        "size": "14.5-24 oz. Select varieties",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "adText": "sale price $2.39",
+        "source": "Meijer weekly ad via retailshout.com",
+        "fetchedAt": "2026-10-14T15:30:07.843Z"
       }
     }
   }
