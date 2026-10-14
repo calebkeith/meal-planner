@@ -3,7 +3,7 @@
     "storeId": "1238",
     "storeName": "Giant Eagle #1238, 4453 Liberty Ave, Vermilion",
     "status": "ok",
-    "fetchedAt": "2026-10-14T15:07:28.263Z",
+    "fetchedAt": "2026-10-14T15:21:45.209Z",
     "prices": {
       "gbeef": {
         "price": 6.99,
@@ -368,6 +368,97 @@
         "size": "5.5 oz",
         "brand": "Hamburger Helper",
         "fetchedAt": "2026-10-14T15:07:07.577Z"
+      },
+      "drumsticks": {
+        "price": 2.49,
+        "product": "Market District Chicken Drumsticks",
+        "size": "per lb (pack 1.2 lb (avg.))",
+        "brand": "Market District",
+        "fetchedAt": "2026-10-14T15:14:36.923Z"
+      },
+      "chuck": {
+        "price": 7.99,
+        "product": "Market District Beef Chuck Spencer Roast, Certified Angus Beef ®",
+        "size": "per lb (pack 2.75 lb (avg.))",
+        "brand": "Market District",
+        "fetchedAt": "2026-10-14T15:14:44.922Z"
+      },
+      "manwich": {
+        "price": 1.39,
+        "product": "Giant Eagle Sloppy Joe Sauce",
+        "size": "15 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T15:15:05.042Z"
+      },
+      "chilibeans": {
+        "price": 0.99,
+        "product": "Giant Eagle Chili Beans",
+        "size": "15.5 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T15:15:13.569Z"
+      },
+      "brgravy": {
+        "price": 1.19,
+        "product": "Giant Eagle Brown Gravy Mix",
+        "size": "0.87 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T15:15:38.246Z"
+      },
+      "greenbeans": {
+        "price": 0.99,
+        "product": "Giant Eagle Cut Green Beans",
+        "size": "14.5 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T15:15:47.113Z"
+      },
+      "saltines": {
+        "price": 1.89,
+        "product": "Giant Eagle Saltine Crackers, Original",
+        "size": "16 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T15:15:54.998Z"
+      },
+      "txtoast": {
+        "price": 2.99,
+        "product": "Giant Eagle Garlic Toast",
+        "size": "11.25 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T15:16:18.613Z"
+      },
+      "carrots": {
+        "price": 4.99,
+        "product": "Giant Eagle Whole Carrots, 32oz, Value Size",
+        "size": "32 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T15:18:53.350Z"
+      },
+      "tsauce": {
+        "price": 1.09,
+        "product": "Giant Eagle Tomato Sauce",
+        "size": "15 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T15:19:01.273Z"
+      },
+      "chiliseas": {
+        "price": 1.69,
+        "product": "McCormick Chili Seasoning Mix",
+        "size": "1.25 oz",
+        "brand": "McCormick",
+        "fetchedAt": "2026-10-14T15:19:09.178Z"
+      },
+      "ramen": {
+        "price": 2.99,
+        "product": "Maruchan Ramen Noodle Soup, Chicken Flavor, 12 Pack",
+        "size": "12 ea",
+        "brand": "Maruchan",
+        "fetchedAt": "2026-10-14T15:19:16.560Z"
+      },
+      "tots": {
+        "price": 3.99,
+        "product": "Giant Eagle Tater Treats Shredded Potatoes, Seasoned",
+        "size": "32 oz",
+        "brand": "Giant Eagle",
+        "fetchedAt": "2026-10-14T15:21:39.143Z"
       }
     }
   },
@@ -375,7 +466,7 @@
     "storeId": "516357",
     "storeName": "ALDI HIN 58 - Amherst (2241 Kresge Dr)",
     "status": "ok",
-    "fetchedAt": "2026-10-14T13:31:28.889Z",
+    "fetchedAt": "2026-10-14T15:19:57.600Z",
     "prices": {
       "gbeef": {
         "price": 5.29,
@@ -663,6 +754,76 @@
         "size": "18 oz",
         "brand": "millville",
         "fetchedAt": "2026-10-14T13:31:14.454Z"
+      },
+      "drumsticks": {
+        "price": 0.89,
+        "product": "Perdue No Antibiotics Ever Chicken Drumsticks Value Pack, per lb",
+        "size": "per lb (pack per lb)",
+        "brand": "perdue",
+        "fetchedAt": "2026-10-14T15:14:43.510Z"
+      },
+      "chuck": {
+        "price": 6.99,
+        "product": "USDA Choice Black Angus Chuck Roast, per lb",
+        "size": "per lb (pack per lb)",
+        "brand": null,
+        "fetchedAt": "2026-10-14T15:14:59.082Z"
+      },
+      "manwich": {
+        "price": 1.09,
+        "product": "Brookdale Original Sloppy Joe Sauce",
+        "size": "15 oz",
+        "brand": "brookdale",
+        "fetchedAt": "2026-10-14T15:15:27.822Z"
+      },
+      "chilibeans": {
+        "price": 0.95,
+        "product": "Aldi Mild Chili Beans",
+        "size": "15.5 oz",
+        "brand": "dakota's pride",
+        "fetchedAt": "2026-10-14T15:15:42.031Z"
+      },
+      "brgravy": {
+        "price": 0.55,
+        "product": "Stonemill 30% Less Sodium Brown Gravy Mix",
+        "size": "0.87 oz",
+        "brand": "stonemill",
+        "fetchedAt": "2026-10-14T15:16:25.374Z"
+      },
+      "greenbeans": {
+        "price": 0.55,
+        "product": "Happy Harvest Cut Green Beans",
+        "size": "15 oz",
+        "brand": "happy harvest",
+        "fetchedAt": "2026-10-14T15:16:39.870Z"
+      },
+      "saltines": {
+        "price": 2.05,
+        "product": "Savoritz Saltine Crackers",
+        "size": "16 oz",
+        "brand": "savoritz",
+        "fetchedAt": "2026-10-14T15:16:54.266Z"
+      },
+      "txtoast": {
+        "price": 2.15,
+        "product": "Mama Cozzi's Pizza Kitchen Garlic Texas Toast - 8 count",
+        "size": "11.25 oz",
+        "brand": "mama cozzi's pizza kitchen",
+        "fetchedAt": "2026-10-14T15:17:37.578Z"
+      },
+      "carrots": {
+        "price": 2.19,
+        "product": "Fresh Whole Carrots",
+        "size": "2 lb container",
+        "brand": null,
+        "fetchedAt": "2026-10-14T15:18:59.504Z"
+      },
+      "tsauce": {
+        "price": 0.55,
+        "product": "Happy Harvest Tomato Sauce",
+        "size": "8 oz",
+        "brand": "happy harvest",
+        "fetchedAt": "2026-10-14T15:19:13.959Z"
       }
     }
   },
@@ -677,7 +838,7 @@
     "storeId": "",
     "storeName": "Meijer, 5350 N Leavitt Rd, Lorain (weekly ad + public prices; meijer.com not accessed)",
     "status": "ok (weekly ad 10/14 to 10/20: 343 ad items, 23 matched)",
-    "fetchedAt": "2026-10-14T15:07:47.532Z",
+    "fetchedAt": "2026-10-14T15:19:58.766Z",
     "prices": {
       "gbeef": {
         "price": 6.99,
@@ -891,7 +1052,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale $1.99 lb",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:07:47.520Z"
+        "fetchedAt": "2026-10-14T15:19:58.756Z"
       },
       "sourcream": {
         "price": 3.69,
@@ -901,7 +1062,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale price $3.69",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:07:47.520Z"
+        "fetchedAt": "2026-10-14T15:19:58.756Z"
       },
       "macbox": {
         "price": 1.33,
@@ -911,7 +1072,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale 3/ $4.00",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:07:47.520Z"
+        "fetchedAt": "2026-10-14T15:19:58.756Z"
       },
       "bbq": {
         "price": 1.89,
@@ -921,7 +1082,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale $1.89",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:07:47.520Z"
+        "fetchedAt": "2026-10-14T15:19:58.756Z"
       },
       "cereal": {
         "price": 3.99,
@@ -931,7 +1092,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale price $3.99",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:07:47.520Z"
+        "fetchedAt": "2026-10-14T15:19:58.756Z"
       },
       "diapers": {
         "price": 7.59,
@@ -941,7 +1102,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale price $7.59",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:07:47.520Z"
+        "fetchedAt": "2026-10-14T15:19:58.756Z"
       },
       "wipes": {
         "price": 6.69,
@@ -951,7 +1112,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale price $6.69",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:07:47.520Z"
+        "fetchedAt": "2026-10-14T15:19:58.756Z"
       },
       "hhstrog": {
         "price": 1.49,
@@ -961,7 +1122,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale $1.49",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T15:07:47.520Z"
+        "fetchedAt": "2026-10-14T15:19:58.756Z"
       }
     }
   }
