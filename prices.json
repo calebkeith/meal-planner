@@ -362,13 +362,6 @@
         "brand": "Giant Eagle",
         "fetchedAt": "2026-10-14T13:27:02.350Z"
       },
-      "mushsoup": {
-        "price": 1.29,
-        "product": "Giant Eagle Condensed Soup, Cream Of Mushroom",
-        "size": "10.5 oz",
-        "brand": "Giant Eagle",
-        "fetchedAt": "2026-10-14T13:27:11.215Z"
-      },
       "uncrust": {
         "price": 11.49,
         "product": "Smucker\u2019s Uncrustables Peanut Butter & Grape Jelly Sandwiches, 10 Count (Frozen)",
@@ -671,13 +664,6 @@
         "brand": "campbell's",
         "fetchedAt": "2026-10-14T13:30:31.597Z"
       },
-      "mushsoup": {
-        "price": 0.79,
-        "product": "Chef's Cupboard Condensed Cream of Mushroom Soup",
-        "size": "10.5 oz",
-        "brand": "chef's cupboard",
-        "fetchedAt": "2026-10-14T13:30:45.974Z"
-      },
       "cereal": {
         "price": 2.95,
         "product": "Millville Honey Crunch 'n Oats Original Cereal",
@@ -869,16 +855,6 @@
         "price": 1.5,
         "product": "Campbell's Condensed Tomato Soup",
         "size": "10.75 oz",
-        "priceType": "sale",
-        "validThrough": "2026-10-20",
-        "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
-        "note": "4/$6",
-        "fetchedAt": "2026-10-14T13:15:00.000Z"
-      },
-      "mushsoup": {
-        "price": 1.5,
-        "product": "Campbell's Cream of Mushroom",
-        "size": "10.5 oz",
         "priceType": "sale",
         "validThrough": "2026-10-20",
         "source": "Meijer weekly ad 10/14-10/20/2026 via retailshout.com",
