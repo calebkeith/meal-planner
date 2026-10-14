@@ -3,7 +3,7 @@
     "storeId": "1238",
     "storeName": "Giant Eagle #1238, 4453 Liberty Ave, Vermilion",
     "status": "ok",
-    "fetchedAt": "2026-10-14T13:28:20.502Z",
+    "fetchedAt": "2026-10-14T15:07:28.263Z",
     "prices": {
       "gbeef": {
         "price": 6.99,
@@ -165,13 +165,6 @@
         "size": "10 oz",
         "brand": "Market District",
         "fetchedAt": "2026-10-14T13:09:17.425Z"
-      },
-      "egnoodle": {
-        "price": 1.99,
-        "product": "Giant Eagle Egg Noodles, Extra Broad",
-        "size": "12 oz",
-        "brand": "Giant Eagle",
-        "fetchedAt": "2026-10-14T13:09:34.116Z"
       },
       "macbox": {
         "price": 0.99,
@@ -348,13 +341,6 @@
         "brand": "Giant Eagle",
         "fetchedAt": "2026-10-14T13:26:37.298Z"
       },
-      "helper": {
-        "price": 2.79,
-        "product": "Hamburger Helper Double Cheeseburger Macaroni",
-        "size": "6 oz",
-        "brand": "Hamburger Helper",
-        "fetchedAt": "2026-10-14T13:26:45.175Z"
-      },
       "cnsoup": {
         "price": 1.19,
         "product": "Giant Eagle Chicken Noodle Soup",
@@ -364,10 +350,24 @@
       },
       "uncrust": {
         "price": 11.49,
-        "product": "Smucker\u2019s Uncrustables Peanut Butter & Grape Jelly Sandwiches, 10 Count (Frozen)",
+        "product": "Smucker’s Uncrustables Peanut Butter & Grape Jelly Sandwiches, 10 Count (Frozen)",
         "size": "20 oz",
         "brand": "Smucker's",
         "fetchedAt": "2026-10-14T13:27:19.378Z"
+      },
+      "helper": {
+        "price": 2.69,
+        "product": "Hamburger Helper Cheeseburger Macaroni",
+        "size": "2 oz",
+        "brand": "Hamburger Helper",
+        "fetchedAt": "2026-10-14T15:07:00.175Z"
+      },
+      "hhstrog": {
+        "price": 2.79,
+        "product": "Hamburger Helper Deluxe Beef Stroganoff Pasta Meal Kit",
+        "size": "5.5 oz",
+        "brand": "Hamburger Helper",
+        "fetchedAt": "2026-10-14T15:07:07.577Z"
       }
     }
   },
@@ -509,13 +509,6 @@
         "size": "9.5 oz",
         "brand": "specially selected",
         "fetchedAt": "2026-10-14T13:12:19.086Z"
-      },
-      "egnoodle": {
-        "price": 1.89,
-        "product": "Reggano Enriched Wide Egg Noodles",
-        "size": "16 oz",
-        "brand": "reggano",
-        "fetchedAt": "2026-10-14T13:12:47.657Z"
       },
       "macbox": {
         "price": 0.65,
@@ -684,7 +677,7 @@
     "storeId": "",
     "storeName": "Meijer, 5350 N Leavitt Rd, Lorain (weekly ad + public prices; meijer.com not accessed)",
     "status": "ok (weekly ad 10/14 to 10/20: 343 ad items, 23 matched)",
-    "fetchedAt": "2026-10-14T13:21:41.727Z",
+    "fetchedAt": "2026-10-14T15:07:47.532Z",
     "prices": {
       "gbeef": {
         "price": 6.99,
@@ -898,7 +891,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale $1.99 lb",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T13:21:41.721Z"
+        "fetchedAt": "2026-10-14T15:07:47.520Z"
       },
       "sourcream": {
         "price": 3.69,
@@ -908,7 +901,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale price $3.69",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T13:21:41.721Z"
+        "fetchedAt": "2026-10-14T15:07:47.520Z"
       },
       "macbox": {
         "price": 1.33,
@@ -918,7 +911,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale 3/ $4.00",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T13:21:41.721Z"
+        "fetchedAt": "2026-10-14T15:07:47.520Z"
       },
       "bbq": {
         "price": 1.89,
@@ -928,7 +921,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale $1.89",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T13:21:41.721Z"
+        "fetchedAt": "2026-10-14T15:07:47.520Z"
       },
       "cereal": {
         "price": 3.99,
@@ -938,7 +931,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale price $3.99",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T13:21:41.721Z"
+        "fetchedAt": "2026-10-14T15:07:47.520Z"
       },
       "diapers": {
         "price": 7.59,
@@ -948,7 +941,7 @@
         "validThrough": "2026-10-20",
         "adText": "sale price $7.59",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T13:21:41.721Z"
+        "fetchedAt": "2026-10-14T15:07:47.520Z"
       },
       "wipes": {
         "price": 6.69,
@@ -958,7 +951,17 @@
         "validThrough": "2026-10-20",
         "adText": "sale price $6.69",
         "source": "Meijer weekly ad via retailshout.com",
-        "fetchedAt": "2026-10-14T13:21:41.721Z"
+        "fetchedAt": "2026-10-14T15:07:47.520Z"
+      },
+      "hhstrog": {
+        "price": 1.49,
+        "product": "Hamburger or Tuna Helper",
+        "size": "4-8.7 oz. Select varieties",
+        "priceType": "sale",
+        "validThrough": "2026-10-20",
+        "adText": "sale $1.49",
+        "source": "Meijer weekly ad via retailshout.com",
+        "fetchedAt": "2026-10-14T15:07:47.520Z"
       }
     }
   }
